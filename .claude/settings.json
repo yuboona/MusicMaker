@@ -3,7 +3,12 @@
     "allow": [
       "Bash(/Users/zhangzhe/anaconda3/envs/ai_survey/bin/pip list *)",
       "Bash(/Users/zhangzhe/anaconda3/envs/ai_survey/bin/pip install *)",
-      "Bash(/Users/zhangzhe/anaconda3/envs/ai_survey/bin/python 06_Tools/analyze_audio.py \"01_Humming_Ideas/2026-07/7月5日 玄武区.m4a\")"
+      "Bash(/Users/zhangzhe/anaconda3/envs/ai_survey/bin/python 06_Tools/analyze_audio.py \"01_Humming_Ideas/2026-07/7月5日 玄武区.m4a\")",
+      "Bash(/Users/zhangzhe/anaconda3/envs/ai_survey/bin/python 06_Tools/analyze_audio.py \"01_Humming_Ideas/2026-07/7月5日 demo2.m4a\")",
+      "Bash(/Users/zhangzhe/anaconda3/envs/ai_survey/bin/python /Users/zhangzhe/2_My_GITHUB_Proj/MusicMaker/06_Tools/pitch_range.py \"01_Humming_Ideas/2026-07/7月5日 玄武区.m4a\" \"01_Humming_Ideas/2026-07/7月5日 demo2.m4a\")",
+      "Bash(/Users/zhangzhe/anaconda3/envs/ai_survey/bin/python /Users/zhangzhe/2_My_GITHUB_Proj/MusicMaker/06_Tools/pitch_range.py \"/Users/zhangzhe/2_My_GITHUB_Proj/MusicMaker/01_Humming_Ideas/2026-07/7月5日 玄武区.m4a\" \"/Users/zhangzhe/2_My_GITHUB_Proj/MusicMaker/01_Humming_Ideas/2026-07/7月5日 demo2.m4a\")",
+      "Bash(/Users/zhangzhe/anaconda3/envs/ai_survey/bin/python -c ' *)",
+      "Bash(/Users/zhangzhe/anaconda3/envs/ai_survey/bin/python /Users/zhangzhe/2_My_GITHUB_Proj/MusicMaker/06_Tools/pitch_range.py \"/Users/zhangzhe/2_My_GITHUB_Proj/MusicMaker/01_Humming_Ideas/2026-07/7月5日 demo2.m4a\")"
     ]
   }
 }
