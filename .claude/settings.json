@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/Users/zhangzhe/anaconda3/envs/ai_survey/bin/pip list *)",
+      "Bash(/Users/zhangzhe/anaconda3/envs/ai_survey/bin/pip install *)",
+      "Bash(/Users/zhangzhe/anaconda3/envs/ai_survey/bin/python 06_Tools/analyze_audio.py \"01_Humming_Ideas/2026-07/7月5日 玄武区.m4a\")"
+    ]
+  }
+}
